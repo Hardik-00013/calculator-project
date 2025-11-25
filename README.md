@@ -1,1 +1,1 @@
-This is the Calculator Project - updated in feature2 branch with different changes.
+FEATURE2 VERSION - This line belongs to FEATURE2.
