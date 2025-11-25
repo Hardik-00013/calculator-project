@@ -1,1 +1,1 @@
-This is the Calculator Project - updated in feature2 branch with different changes.
+This is the main branch version of README.
